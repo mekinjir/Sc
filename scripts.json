@@ -1,5 +1,12 @@
 [
   {
+    "id": "mvbwbjhsgc659",
+    "name": "Projects zero",
+    "game": "Ride A Pet\n Fishing Master\n Break And Steal An Egg",
+    "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/elputrachh/projectzero/refs/heads/main/Pzero.lua\"))()",
+    "createdAt": "2026-10-17T04:27:56.657Z"
+  },
+  {
     "id": "mvbw91ysxspiz",
     "name": "Speed hub",
     "game": "+1 Speed Keyboard Escape\n+1 Speed Monkey Escape\nBloxfruit\nGrow A Garden 2\nGrow a Garden\nMurder Mystery 2\nPETS GO!\nThe Strongest Battlegrounds",
