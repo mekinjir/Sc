@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "mvbvsz1ymbwo2",
+    "name": "Big frot",
+    "game": "+1 Loot to Forge\nAnime Apocalypse\nAnime Astral Simulator\nAnime Dice\nAnime Expeditions\nAnime Final Quest\nAnime Origins\nAnime Reversal\nAnime Squadron\nAnime Story 2\nAnime Warriors III\nAnime Zero\nBlox Fruits\nBreak and Steal an Egg\nBroken Blade\nBuild a Ring Farm\nCapybaras vs Plants\nCatch a Brainrot\nDungeon Hunters\nDungeon Lootr\nEvomon\nGrow a Garden 2\nIllegal Soccer\nIron Soul: Dungeon\nJump for Animals\nKarinderya\nKick a Lucky Block\nLucky Block Rush\nMurder Mystery 2\nMy Gaming Cafe\nMy Knife Farm\nNoob Tower Defense\nPets Universe\nRide a Pet\nRoll Anime to Fight\nSell Lemons\nSlayers 2\nSlime RNG\nSteal an Egg\nSummon Heroes\nSurvive Zombie Arena\nTap Simulator REBORN\nThrow a Coin\nUnbox a Factory\nUnscathed RNG",
+    "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hanniii1/Loader/refs/heads/main/BFLoader.lua\"))()",
+    "createdAt": "2026-10-17T04:13:30.362Z"
+  }
+]
